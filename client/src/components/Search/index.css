@@ -1,0 +1,69 @@
+/* h2{
+    color: orange;
+} */
+
+.searchwrap, .resultsWrap{
+    /* background-color: black;
+    color: orange; */
+    text-align: center;
+    padding: 6px;
+  
+}
+
+/* .searcForm{
+    border : solid 1px;
+    border-color: white;
+    padding: 10px;
+    border-radius: 5px;
+
+} */
+
+/* input[type=input] {
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: orange;
+    -webkit-transition: width 0.5s ease-in-out;
+    transition: width 0.5s ease-in-out;
+    width: 100%;
+}
+
+input[type=input]:focus {
+    background-color: black;
+    color: orange;
+    border: 1px solid greenyellow;
+    width: 100%;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus{
+    -webkit-text-fill-color: orange;
+    transition: background-color 5000s ease-in-out 0s;
+    
+    border: 1px solid greenyellow;
+    width: 100%; */
+
+/* } */
+.allCard{
+    padding: 5px;
+}
+.card{
+    /* background-color: black;
+    color: orange; */
+    border : solid 1px;
+    border-color: black;
+    text-align: left;
+    margin-top: 5px;
+    max-width: 275px;
+    margin: auto;
+}
+
+.cardButton{
+    margin: 3px;
+}
+
+img{
+    
+    height: 300px;
+}

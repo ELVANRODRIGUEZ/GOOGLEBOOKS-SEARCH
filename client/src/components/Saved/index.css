@@ -1,0 +1,35 @@
+h2{
+    color: orange;
+}
+
+.resultsWrap{
+    background-color: black;
+    color: orange;
+    text-align: center;
+    padding: 6px;
+  
+}
+
+
+.allCard{
+    padding: 5px;
+}
+.card{
+    background-color: black;
+    color: orange;
+    border : solid 1px;
+    border-color: white;
+    text-align: left;
+    margin: auto;
+    max-width: 275px;
+}
+
+.cardButton{
+    margin: 3px;
+}
+
+img{
+ 
+    height: 300px;
+}
+
